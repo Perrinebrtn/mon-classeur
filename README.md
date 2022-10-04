@@ -1,2 +1,2 @@
-# mon-classeur
+# mon/classeur
 Un classeur pour gérer mes cours
